@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alejandro Blackburn</h1>
 <h3 align="center">A tech entrepreneur from Colombia</h3>
 
+<p align="center"><img src="https://github.com/AB6162/AB6162/assets/11187639/c6c61d68-f155-4dd4-b9aa-2d6b594fa767" width=50% height=50%></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ab6162&label=Profile%20views&color=0e75b6&style=flat" alt="ab6162" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ab6162" alt="ab6162" /></a> </p>
@@ -21,6 +23,8 @@
 - 📝 I regularly write articles on [https://www.alejandroblackburn.com](https://www.alejandroblackburn.com)
 
 - 💬 Ask me about **puppeteer, php, nodejs**
+
+- ✏️ All images in this archive are made by my daughter.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
