@@ -17,6 +17,8 @@
       2. Trabajamos, a search engine for work opportunities from home where the priority is the worker. Available in Colombia, Ecuador and Mexico.
       3. WerMark, a platform for massive SMS, Emails and Whatsapps sending with automatic flows.
       4. QuData Research & Polls, where we conduct market research, trends, and habits, enhanced with AI to better predict future behavior.
+      5. Nidho, a proptech solution for fully digital rentals, as well as fully autonomous real estate management.
+      6. Baratto is a totally free and commission-free online retail alternative.
 
 - 💻 I usually commit to private repositories. Soon I will start two public projects.
 
