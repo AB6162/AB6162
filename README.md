@@ -3,11 +3,9 @@
 
 <p align="center"><img src="https://github.com/AB6162/AB6162/assets/11187639/c6c61d68-f155-4dd4-b9aa-2d6b594fa767" width=50% height=50%></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ab6162&label=Profile%20views&color=0e75b6&style=flat" alt="ab6162" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ab6162" alt="ab6162" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/alejoblackburn" target="blank"><img src="https://img.shields.io/twitter/follow/alejoblackburn?logo=twitter&style=for-the-badge" alt="alejoblackburn" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ab6162&label=Profile%20views&color=0e75b6&style=flat" alt="ab6162" /> </p>
 
 - 🔭 I’m currently working on **Digital Tech Ideas** where I’m the company founder.
 
@@ -43,7 +41,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ab6162&show_icons=true&locale=en" alt="ab6162" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ab6162&show_icons=true&locale=en&layout=compact" alt="ab6162" /></p>
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ab6162&show_icons=true&locale=en&layout=compact" alt="ab6162" /> </p>  
+
+<p align="left">  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ab6162" alt="ab6162" /></a>  </p>
 
 <!--
 **AB6162/AB6162** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
