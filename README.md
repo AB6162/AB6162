@@ -20,7 +20,7 @@
 
 - 💻 I usually commit to private repositories. Soon I will start two public projects.
 
-- 📝 I regularly write articles on [https://www.alejandroblackburn.com](https://www.alejandroblackburn.com)
+- 📝 I regularly write articles on [https://www.alejandroblackburn.co](https://www.alejandroblackburn.co)
 
 - 💬 Ask me about **puppeteer, php, nodejs**
 
